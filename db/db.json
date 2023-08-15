@@ -1,3 +1,12 @@
 [
-    
+    {
+        "id": "bb535366-d94b-4f89-a658-3bcfe0775453",
+        "title": "My first Note",
+        "text": "My first note "
+    },
+    {
+        "id": "632a192f-5c50-4685-abd3-4ecbffd6baa9",
+        "title": "My second note",
+        "text": "My second Note"
+    }
 ]
